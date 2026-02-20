@@ -345,3 +345,6 @@ LoRA-based domain adaptation at this scale.
 - Scale to a larger base model such as Llama-3-8B with access to additional GPU memory.
 - Explore direct preference optimization (DPO) to further align response quality with
   clinically accurate outputs.
+
+  ## Video Link
+  Link; https://youtu.be/eTtRYPKMRfM
