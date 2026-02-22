@@ -348,3 +348,4 @@ LoRA-based domain adaptation at this scale.
 
   ## Video Link
   Link; https://youtu.be/eTtRYPKMRfM
+  deployed model link; https://huggingface.co/spaces/Alli123/medical_llm_fine-tuning
